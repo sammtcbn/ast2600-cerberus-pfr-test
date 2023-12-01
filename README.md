@@ -1,3 +1,5 @@
+This is just a repository for experimentation purposes, gathering materials for Aspeed OpenBMC and Aspeed Cerberus, intended for practicing Cerberus PFR (Platform Firmware Resilience) usage.
+
 Follow steps to build AST2600 BMC image for Cerberus PFR.
 
 Step1:
